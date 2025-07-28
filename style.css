@@ -36,16 +36,16 @@ body{
 
 @keyframes slider {
     0%, 33% {
-        background-image: url(./img/olhos-gato.jpg);
-        --text-description: "Olhos de gato!"
+        background-image: url(./img/mesaPingas.jpeg);
+        --text-description: "Only Pingas"
     }
     34%, 66% {
-        background-image: url(./img/olhos-cachorro.jpg);
-        --text-description: "Olhos de cachorro!"
+        background-image: url(./img/refeitório.jpeg);
+        --text-description: "Refeitório do pátio principal!"
     }
     67%, 100% {
-        background-image: url(./img/olhos-aguia.jpg);
-        --text-description: "Olhos de aguia!"
+        background-image: url(./img/aapm.jpeg);
+        --text-description: "Entrada da AAPM"
     }
 }
 @keyframes fade {
